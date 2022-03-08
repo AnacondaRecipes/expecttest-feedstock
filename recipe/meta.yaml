@@ -17,12 +17,12 @@ build:
 requirements:
   host:
     - pip
-    - poetry
+    - poetry-core >=1.0.0
     - python
     - setuptools
     - wheel
   run:
-    - python
+    - python >=3.6
 
 test:
   imports:
