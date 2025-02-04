@@ -35,6 +35,7 @@ test:
 about:
   home: https://github.com/ezyang/expecttest
   summary: This library implements expect tests (also known as "golden" tests).
+  description: This library implements expect tests (also known as "golden" tests).
   license: MIT
   license_family: MIT
   license_file: LICENSE
